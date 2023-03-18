@@ -1,0 +1,20 @@
+{
+    "name": "hetznercloud/api",
+    "description": "A PHP library for interacting with Hetzner Cloud API",
+    "type": "library",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Hossein Pira",
+            "email": "h3dev.pira@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "HetznerCloud\\": "src/"
+        }
+    }
+}
