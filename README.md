@@ -1,4 +1,4 @@
-# Cloud
+# HetznerCloud Api
  A PHP library for interacting with Hetzner Cloud API
 
 ## get from composer 
