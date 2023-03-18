@@ -2,7 +2,7 @@
     "name": "hetznercloud/api",
     "description": "A PHP library for interacting with Hetzner Cloud API",
     "type": "library",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Hossein Pira",
